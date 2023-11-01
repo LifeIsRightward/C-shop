@@ -1,3 +1,4 @@
 # C# (Shop)
 
-![image](https://github.com/yinneu/C-shop/assets/99879845/d52d4590-8f66-4a63-ad92-8c869a9b63e2)
+<img src = "https://github.com/LifeIsRightward/C-shop/assets/90908005/83c0c7a5-5d15-48e9-9695-8b8daa0952ed" width = 80%>
+
