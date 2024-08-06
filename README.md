@@ -2,6 +2,11 @@
 
 <img src="https://github.com/LifeIsRightward/C-shop/assets/90908005/83c0c7a5-5d15-48e9-9695-8b8daa0952ed" width = 80%>
 
+
+## 발표 영상
+https://www.youtube.com/watch?v=O_I4qz1BHQA
+
+
 ## 서비스 & 기능
 
 ![image](https://github.com/user-attachments/assets/43341549-73c4-4dd6-95d3-cd2c49e79b7b)
